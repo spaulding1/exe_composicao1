@@ -10,6 +10,7 @@ namespace Composicao1.Entities
 
         public HourContract()
         {
+
         }
 
         public HourContract(DateTime date, double valorPorHora, int horas)
